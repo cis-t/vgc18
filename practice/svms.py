@@ -1,4 +1,3 @@
-from sys import exit
 from sklearn import svm
 from sklearn.model_selection import GridSearchCV
 from sklearn.svm import SVC
@@ -43,17 +42,16 @@ class svmclsbinary(object):
         assert self.train_finished == False
         self.module.fit(self.X, self.y)
         self.train_finished = True
-        print ("Finish training this svm for {}...".format(self.name))
-        _ = self._evaluate()
+        print ("[INFO]: finish training this SVM ...")
 
     def _evaluate(self):
         assert self.eval_finished == False
         pred = self._predict(self.testX)
         r, p, f1, acc = svmclsbinary.mynumbers(pred, self.testy)
-        self.eval_logger = "Word::{} f1: {}, recall: {}, precision: {}, acc: {}. TestSize::{}, TestDist::{}".format(self.name, f1, r, p, acc, len(self.testy), Counter(self.testy))
-        print (self.eval_logger)
+        self.eval_logger = "f1: {}, recall: {}, precision: {}, acc: {}. TestSize::{}, TestDist::{}".format(
+            f1, r, p, acc, len(self.testy), Counter(self.testy))
         self.eval_finished = True
-        return f1
+        return (f1, p, r, acc)
 
     def _predict(self, myX):
         assert self.train_finished == True

@@ -1,7 +1,3 @@
-from __future__ import print_function
-from __future__ import division
-
-from sys import exit
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from sklearn.metrics import recall_score, precision_score, f1_score, accuracy_score
 from collections import Counter
@@ -36,7 +32,7 @@ class ruleSentimentClassifier(SentimentClassifier):
     def __init__(self, pos_sents, neg_sents):
         super(ruleSentimentClassifier, self).__init__(pos_sents, neg_sents)
         self.vader = SentimentIntensityAnalyzer()
-        print ("Finish reading sentences and intialize VADER ...")
+        print ("[INFO]: finish reading sentences and intialize VADER ...")
         self.compute_score()
 
     def compute_score(self):
@@ -45,12 +41,12 @@ class ruleSentimentClassifier(SentimentClassifier):
         _neg_preds = map(lambda x: int(x<=-0.05), map(retriver, self.neg_sents))
         y = [1] * len(_pos_preds) + [0] * len(_neg_preds)
         result = ruleSentimentClassifier.mynumbers(_pos_preds+_neg_preds, y)
-        print ("-" * 10 + " Summary (rule) " + "-" * 10)
+        print ("-" * 10 + " Summary " + "-" * 10)
         print ("Classification results:")
         print ("F1: {:.2f}, Recall: {:.2f}, Precision: {:.2f}, Accuracy: {:.2f}".format(
         result[2], result[0], result[1], result[-1]))
         print ("Data distribution: {}".format(dict(Counter(y))))
-        print ("-" * 36)
+        print ("-" * 29)
 
 
 class bowSentimentClassifier(SentimentClassifier):
@@ -70,6 +66,14 @@ class bowSentimentClassifier(SentimentClassifier):
                                 testX=test_pos_X+test_neg_X,
                                 testy=testy,
                                 docv=False)
+        f1, p, r, acc = self.svm._evaluate()
+        print ("-" * 10 + " Summary " + "-" * 10)
+        print ("Classification results:")
+        print ("F1: {:.2f}, Recall: {:.2f}, Precision: {:.2f}, Accuracy: {:.2f}".format(
+        f1, r, p, acc))
+        print ("Data distribution: {}".format(dict(Counter(self.svm.testy))))
+        print ("-" * 29)
+
 
     def _compute_feature(self):
         corpus = ""
@@ -77,11 +81,11 @@ class bowSentimentClassifier(SentimentClassifier):
         vocab = [k for k, v in dict(Counter(corpus.split(" "))).iteritems() if v > 5]
         self.vocab = {k: idx for idx, k in enumerate(vocab)}
         self.vocab_size = len(self.vocab)
-        print ("Finish computing vocab, start computing features ...")
+        print ("[INFO]: finish computing vocab, start computing features ...")
         self.pos_X = map(self._feature_lookup, self.pos_sents)
         self.neg_X = map(self._feature_lookup, self.neg_sents)
         self.y = [1] * len(self.pos_X) + [-1] * len(self.neg_X)
-        print ("Finish computing features ... Ready to train SVM ...")
+        print ("[INFO]: finish computing features ... Ready to train SVM ...")
 
     def _feature_lookup(self, sentence):
         X = []
@@ -113,7 +117,7 @@ class vecSentimentClassifier(bowSentimentClassifier):
         self.pos_X = map(self._feature_lookup, self.pos_sents)
         self.neg_X = map(self._feature_lookup, self.neg_sents)
         self.y = [1] * len(self.pos_X) + [-1] * len(self.neg_X)
-        print ("Finish computing features ... Ready to train SVM ...")
+        print ("[INFO]: finish computing features ... Ready to train SVM ...")
 
     @overrides
     def _feature_lookup(self, sentence):
@@ -128,13 +132,3 @@ class vecSentimentClassifier(bowSentimentClassifier):
             return X[0]
         elif len(X) == 0:
             return [0.] * 200
-
-
-if __name__ == "__main__":
-    train_pos_sents = "./dataset/train_pos.txt"
-    train_neg_sents = "./dataset/train_neg.txt"
-    test_pos_sents = "./dataset/test_pos.txt"
-    test_neg_sents = "./dataset/test_neg.txt"
-    emb_path = "./embeddings/myemb.vec"
-    cls = vecSentimentClassifier(train_pos_sents, train_neg_sents, emb_path)
-    cls.run(test_pos_sents, test_neg_sents)

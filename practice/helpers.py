@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-from __future__ import print_function
-from __future__ import absolute_import
-from __future__ import division
-
 from six.moves import xrange
-from sys import exit
 from multiprocessing import Pool
 from sklearn.metrics.pairwise import cosine_similarity as coss
 
