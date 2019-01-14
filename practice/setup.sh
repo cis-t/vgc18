@@ -1,9 +1,12 @@
+#!/bin/bash
+
 # setting up environment
+pip install --upgrade pip
 pip install virtualenv
 virtualenv --no-site-packages ./sentiment-analaysis-vgc
-wait
 
 # install requirements
-source ./sentiment-analaysis-vgc/bin/activate
-python -m pip install jupyter
+. ./sentiment-analaysis-vgc/bin/activate
 pip install -r requirements.txt
+python -m pip install jupyter
+
