@@ -8,7 +8,7 @@ if __name__ == "__main__":
     test_pos_sents = "./dataset/test_pos.txt"
     test_neg_sents = "./dataset/test_neg.txt"
 
-    emb_path = "./embeddings/myemb.vec"
+    emb_path = "./myemb.vec"
 
     print ("\n")
     print ("[INFO]: running rule-based experiment ...")
@@ -25,6 +25,3 @@ if __name__ == "__main__":
     mycls = vecSentimentClassifier(train_pos_sents, train_neg_sents, emb_path)
     mycls.run(test_pos_sents, test_neg_sents)
     print ("\n")
-
-
-
