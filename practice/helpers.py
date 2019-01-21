@@ -2,7 +2,8 @@ from six.moves import xrange
 from multiprocessing import Pool
 from sklearn.metrics.pairwise import cosine_similarity as coss
 
-import cPickle as pickle
+# import cPickle as pickle
+from six.moves import cPickle as pickle
 import tqdm
 import numpy as np
 import scipy
@@ -64,7 +65,7 @@ def line_process(l):
 def word2vec(emb_path):
     word2vec = {}
     pool = Pool(4)
-    with open(emb_path, "r") as f:
+    with open(emb_path, "rb") as f:
         pairs = pool.map(line_process, tqdm.tqdm(f.readlines()[1:]))
     pool.close()
     pool.join()

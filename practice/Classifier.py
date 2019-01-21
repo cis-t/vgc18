@@ -37,8 +37,8 @@ class ruleSentimentClassifier(SentimentClassifier):
 
     def compute_score(self):
         retriver = lambda x: self.vader.polarity_scores(x)["compound"]
-        _pos_preds = map(lambda x: int(x>=0.05), map(retriver, self.pos_sents))
-        _neg_preds = map(lambda x: int(x<=-0.05), map(retriver, self.neg_sents))
+        _pos_preds = list(map(lambda x: int(x>=0.05), map(retriver, self.pos_sents)))
+        _neg_preds = list(map(lambda x: int(x<=-0.05), map(retriver, self.neg_sents)))
         y = [1] * len(_pos_preds) + [0] * len(_neg_preds)
         result = ruleSentimentClassifier.mynumbers(_pos_preds+_neg_preds, y)
         print ("-" * 10 + " Summary " + "-" * 10)
@@ -55,10 +55,10 @@ class bowSentimentClassifier(SentimentClassifier):
         self._compute_feature()
 
     def run(self, test_pos_sents, test_neg_sents):
-        test_pos_X = map(self._feature_lookup,
-                         bowSentimentClassifier.readlines(test_pos_sents))
-        test_neg_X = map(self._feature_lookup,
-                         bowSentimentClassifier.readlines(test_neg_sents))
+        test_pos_X = list(map(self._feature_lookup,
+                         bowSentimentClassifier.readlines(test_pos_sents)))
+        test_neg_X = list(map(self._feature_lookup,
+                         bowSentimentClassifier.readlines(test_neg_sents)))
         testy = [1] * len(test_pos_X) + [-1] * len(test_neg_X)
         self.svm = svmclsbinary(name="BOW",
                                 X=self.pos_X+self.neg_X,
@@ -78,12 +78,12 @@ class bowSentimentClassifier(SentimentClassifier):
     def _compute_feature(self):
         corpus = ""
         for s in self.pos_sents+self.neg_sents: corpus += s.lower()
-        vocab = [k for k, v in dict(Counter(corpus.split(" "))).iteritems() if v > 5]
+        vocab = [k for k, v in dict(Counter(corpus.split(" "))).items() if v > 5]
         self.vocab = {k: idx for idx, k in enumerate(vocab)}
         self.vocab_size = len(self.vocab)
         print ("[INFO]: finish computing vocab, start computing features ...")
-        self.pos_X = map(self._feature_lookup, self.pos_sents)
-        self.neg_X = map(self._feature_lookup, self.neg_sents)
+        self.pos_X = list(map(self._feature_lookup, self.pos_sents))
+        self.neg_X = list(map(self._feature_lookup, self.neg_sents))
         self.y = [1] * len(self.pos_X) + [-1] * len(self.neg_X)
         print ("[INFO]: finish computing features ... Ready to train SVM ...")
 
@@ -114,8 +114,8 @@ class vecSentimentClassifier(bowSentimentClassifier):
     @overrides
     def _compute_feature(self):
         assert self.word2vec is not None
-        self.pos_X = map(self._feature_lookup, self.pos_sents)
-        self.neg_X = map(self._feature_lookup, self.neg_sents)
+        self.pos_X = list(map(self._feature_lookup, self.pos_sents))
+        self.neg_X = list(map(self._feature_lookup, self.neg_sents))
         self.y = [1] * len(self.pos_X) + [-1] * len(self.neg_X)
         print ("[INFO]: finish computing features ... Ready to train SVM ...")
 
