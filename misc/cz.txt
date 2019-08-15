@@ -34,71 +34,124 @@ Although it is obvious and (distinct -- i think this word stresses on the "diffe
 
 2.2 Solar energy
 
-Solar energy is radiant light and heat from the sun, utilized through diverse technologies. It can be divided into two categories on the basis of utilizing solar energy directly or indirectly: electricity production (solar photovoltaic (PV) and concentrating solar power (CSP) systems) and thermal energy (Byrne et al, 2010). 
+Solar energy is radiant light and heat from the sun, utilized through diverse
+technologies. It can be divided into two categories on the basis of utilizing
+solar energy directly or indirectly: electricity production (solar photovoltaic
+(PV) and concentrating solar power (CSP) systems) and thermal energy (Byrne et
+al, 2010). 
 
-China has ample solar energy resources, because of the large land area. And its distribution is uneven result from the altitude. Some cold northern provinces of China located at high altitude have rich sunlight and long daily lighting time which is suitable to establish Solar energy plants. In those provinces, such as, inner mongolia, Tibet and southeast of the Qing-zang altiplano, the annual hours of sunlight is more than 3200, and the annual irradiation amount is about 6600– 8500 MJ/m2 (Liu et al, 2010). These abundant resources have supported the development of solar energy. In 2007, the total amount of Chinese solar PV ranks the first in the world, occupying 35% in the world, with over 1200MW (Liu et al, 2010). Besides, wide distribution of solar energy encourageS its development in China. More than 67% areas of China are abundant solar energy zone (The annual hours of rich irradiation zone are about 3000–3200, and the annual irradiation amount is about 5800– 6600MJ/m2.) (Liu et al, 2010). 
+China has ample solar energy resources, because of the large land area. And its
+distribution is uneven result from the altitude. Some cold northern provinces of
+China located at high altitude have rich sunlight and long daily lighting time
+which is suitable to establish Solar energy plants. In those provinces, such as,
+inner mongolia, Tibet and southeast of the Qing-zang altiplano, the annual hours
+of sunlight is more than 3200, and the annual irradiation amount is about 6600–
+8500 MJ/m2 (Liu et al, 2010). These abundant resources have supported the
+development of solar energy. In 2007, the total amount of Chinese solar PV ranks
+the first in the world, occupying 35% in the world, with over 1200MW (Liu et al,
+2010). Besides, wide distribution of solar energy encourageS its development in
+China. More than 67% areas of China are abundant solar energy zone (The annual
+hours of rich irradiation zone are about 3000–3200, and the annual irradiation
+amount is about 5800– 6600MJ/m2.) (Liu et al, 2010). 
 
- However, it is some issues that have the negative influence on the rapid development of solar energy. Firstly, the electric grid does not store electrical energy which means that the demand and the production of electric power must be equivalent at the same time (Leonard et al, 2019). However, when solar power is used to churn out the electric with a PV system, the electrical power produced by solar is limited by daylight hours and seasons. This will result in the situations of energy wasted or insufficient energy supply. This is the reason for the low proportion of adding solar power into state grid. Furthermore, this renewable energy is comparatively uneconomical, because of the high price. The main reasons of high price have caused by two aspects: The technical costs and imported material . For instance, the silicon used in the solar photovoltaic plate is the main cost for the solar energy plants, particularly in the countries which do not have the rich resources. Finally, despite less pollution caused in solar power producing and using, there are some pollution threat after that stages. In the PV system, PV panels is the most significant and most frequently used infrastructure to absorb solar radiation in solar power electric plants, nevertheless life length of PV panels is limited which is approximately 5 years. Those abandoned panels contain chemical materials and toxic substances that are difficult to deal with. 30% of PV panels of the world are supplied in China (Hua, Oliphant, and Hu, 2016), which increased the risk of environmental pollution.
-
-2.3 Wind energy
-
-The definition of wind energy is that air flows are transformed into a used form with wind turbines,for instance, making electricity, windpumps for pumping water or drainage, windmills for mechanical power and so on(Ellabban, Abu-Rub, and Blaabjerg, 2014). In China, wind power took over the largest proportion of renewable power capacities and ranked first in world wind power production in 2015 (Kabir et al, 2018)(Fig.1). 
-
-
-Fig.1 Comparison of non-hydro renewable energy capacities between countries (Kabir et al, 2018). 
-
-The important position of wind power in  China, even in the world, is because the positive benefits of wind power to face the growing energy demand issues. Comparing with other renewable energy mentioned, duration of infrastructure construction in wind power plants is shorter than other renewable energy plants; also,the wind farms are relatively cheaper to build (Ellabban, Abu-Rub, and Blaabjerg, 2014). In addition, wind power generation produces no water or air pollution, achieving environmental friendliness (Ellabban, Abu-Rub, and Blaabjerg, 2014). On the other hand, the negative influence of wind power discouraging its further development should be paid more attention on to face. The primary issue of wind power plant is the noise which caused by fan working. The noise is still around 45 dB  at a 300-meter distance between the fan and residents, Residents who live nearby wind farm area would have a risk of health (Gipe, Paul, 1995). Secondly, the wind power plants mostly build on the place where have enough wind resources to support the equiption working, such as farm, plain. That means several parts of land will be occupied, then the soil erosion will threaten the land quality. Finally, the most serious impact on wildlife is habitat loss and life threat from the windmill (Nathan et al, 2015).
-
-3.Evaluation and suggestion
-
-As a country with a large population, the contribution of China of global CO2 emissions reached 25.1% (Li et al, 2012). The energy situation of China has a great impact on the world. As this essay mentioned , although during the development of renewable energy ,there are some disadvantages and issues which should be solved, the advantages of renewable energy is more strength than the disadvantages and the disadvantages could be mitigated or solved. The most irreplaceable benefit of renewable energy is unlimited storage. With the rapid development of China, the issue of increasing demand of energy would be more serious year by year. The characteristic of large storage for renewable energy is suitable to face this challenge. Moreover, few pollution produced with renewable energy using also is significant benefit. As the pollution from fossil fuel have badly impact on climate change and human life. This essay believes that pollution situation is in urgent need of change and the most powerful measure is been replaced by renewable energy. Overview, this essay holds an optimistic position on renewable energy sources potential to alleviate the problem of increasing energy demands to a certain extent in China. Some suggestions will be given to encourage this opinion.
-
-
-First of all, it is worth it to pay attention on improving the technology of transforming and using renewable energies, for instance,expanding electric capacity, connecting renewable energy with the state grid. Despite the high price of technological development, an advanced technology could give more aids in the next stages of renewable energy, such as low environmental restoration cost. Secondly, in the aspect of policy, Chinese government has given the notional aim : increasing the wind power generation capacity to 200GW by 2020,   23% of the reduction would be contributed by wind power in carbon intensity and 800 million m3 of water would be saved at the same time (Li et al, 2012). A powerful guide policy could make a clear direction for renewable energy development. Take wind power as an example, government publishes that 23% of the reduction would be contributed by wind power in carbon intensity and 800 million m3 of water would be saved at the same time.  Also, the government could encourage renewable energy on finance which is vital assistance at the initial stage of new technology. 
-
-Conclusion
-In summary, this essay shows that the great potential and positive position of renewable energy sources enable it to mitigate increasing energy demands in some degree in China. According to the research on different sides, the article chooses three typical representative renewable energy of China and discusses their development situations in China. Then, there are some evaluations about the potential of renewable energy which believes that those suggestion mentioned would have a hortative influence on renewable energy to facing the energy problem.Discuss and evaluate the potential of renewable energy sources to meet the increasing energy demands of your country.
-
-Introduction
-
-The demand for energy is growing due mostly to the population expansion and human activities, especially in the developing countries which have bigger consumptions. One of the representative developing countries which is facing the challenge of energy demand growth is China. In China, the economy has grown at an average annual rate of 10.2% since 2002 (Jiang, and Lin, 2012, p. 608). Energy consumption is closely related to GDP (Yuan et al, 2010, pp. 5189-5198). According to the research from Jiang and Lin (2012, pp. 608-615), energy demand increases with economic growth. Under this rule, there is a clear indication that China's energy demand will stabilize with a high growth by 2020 (Jiang, and Lin, 2012, p. 611). Additionally, with energy demands increases, more environmental pollution caused by fossil fuel  is the other challenge for China, as coal  occupies the majority of the China energy structure(sun et al, 2016, ). Wu et al (2014) traced CO2 emission from fossil fuel (CO2ff) by Δ14C in a northern city of China, Xi'an and found that CO2 concentration has the maximum in January of 2013 (57.8 ± 17.1 ppm) and an annual average with 34.2 ± 9.5 ppm. Another research(Ding et al, 2013) also showed a fact of the air pollution  caused by fossil fuel in China: during the rush hour of 9 June, 2012, a steep rise of PM2.5 concentration appeared and the data arrived a peak at 8:00, with 468 μg/m−3, then lasted 36h with an average PM2.5 concentration of more than 200 μg/ m−3. 
-
-In the face of these situations, renewable energy sources have an optimistic effect and great potential to alleviate the problem of increasing energy demands to a certain extent in China. This essay will look firstly at the development of renewable energy in China through discussing three types renewable energies which are suitable for development in China, then followed by an evaluation of the possibility of meeting the growing energy demands in China. Finally, some suggestions will be given at the end of the article according to the current study and data.
-
-Discussion
-
-2.Development of renewable energy in China
-
-Renewable energy is power that is collected from renewable resources, which are naturally replenished on a human timescale, such as sunlight, wind, rain, tides, waves, and geothermal heat (Ellabban, Abu-Rub, and Blaabjerg, 2014, p. 749). According to the renewable resources where the renewable energy is from , it is divided into different categories, for example, solar energy, hydropower energy, wind energy, nuclear energy and so on. In China, hydro energy, solar energy and wind energy are the top three energies which are suitable for development in China (Ellabban, Abu-Rub, and Blaabjerg, 2014, p. 749; Liu, Wang, Zhang, and Xue, 2010, p. 303). 
-
-2.1 Hydropower energy
-Hydropower energy is from the flowing water. The kinetic energy of flowing water is translated into and utilized as electrical energy by using turbines. In this process, water and height difference are two necessary conditions of utilizing the hydropower energy. Hydropower energy is mostly used in southwestern provinces of China which have adequate natural river and mountains, which provide those prerequisites, for example, the Three Gorges Dam hydro energy plant in Hubei province, the Danjiangkou Dam hydro energy plant and the Jiangxia tidal power plant. In addition to geographical advantages, there are abundant potential hydropower capacity (676GW) which could generate 5920 TWh per year theoretically and 1920 TWh per year actually in China (Fu, S., and Jin Zhong, 2008, p. 48). Finally, hydropower plants reduce the occurrences of floor. The flooring in the middle reaches of Yangtze River has been mitigated, as the Three Gorges Dam hydro energy plant (Fu, S., and Jin Zhong, 2008, p. 49). 
-Although it is obvious and distinct to realize the benefits of hydropower, the detrimental side should not be ignored. The most crucial disadvantage of hydropower is the negative impact on the natural ecological environment. The hydropower plants always be established rely on the river lines and steep mountains. These human activities will change the original hydrogeologic and geologic conditions to some extent and occupy the habitat of local organisms. Take the  Three Gorges Dam hydro energy plant as an example, there are several desert areas in the upper reaches of the Yellow River, which means that the sediments would be transported with flows to the lower Yellow River basin. The Three Gorges Dam hydro energy plant is situated in the middle of the Yellow River and obstructs the moving of sediments. The sediments deposited on the riverbed and made the altitude higher gradually, threatening the safety of surrounding creatures (Fu, S., and Jin Zhong, 2008).     
-
-2.2 Solar energy
-
-Solar energy is radiant light and heat from the sun, utilized through diverse technologies. It can be divided into two categories on the basis of utilizing solar energy directly or indirectly: electricity production (solar photovoltaic (PV) and concentrating solar power (CSP) systems) and thermal energy (Byrne et al, 2010). 
-
-China has ample solar energy resources, because of the large land area. And its distribution is uneven result from the altitude. Some cold northern provinces of China located at high altitude have rich sunlight and long daily lighting time which is suitable to establish Solar energy plants. In those provinces, such as, inner mongolia, Tibet and southeast of the Qing-zang altiplano, the annual hours of sunlight is more than 3200, and the annual irradiation amount is about 6600– 8500 MJ/m2 (Liu et al, 2010). These abundant resources have supported the development of solar energy. In 2007, the total amount of Chinese solar PV ranks the first in the world, occupying 35% in the world, with over 1200MW (Liu et al, 2010). Besides, wide distribution of solar energy encourageS its development in China. More than 67% areas of China are abundant solar energy zone (The annual hours of rich irradiation zone are about 3000–3200, and the annual irradiation amount is about 5800– 6600MJ/m2.) (Liu et al, 2010). 
-
- However, it is some issues that have the negative influence on the rapid development of solar energy. Firstly, the electric grid does not store electrical energy which means that the demand and the production of electric power must be equivalent at the same time (Leonard et al, 2019). However, when solar power is used to churn out the electric with a PV system, the electrical power produced by solar is limited by daylight hours and seasons. This will result in the situations of energy wasted or insufficient energy supply. This is the reason for the low proportion of adding solar power into state grid. Furthermore, this renewable energy is comparatively uneconomical, because of the high price. The main reasons of high price have caused by two aspects: The technical costs and imported material . For instance, the silicon used in the solar photovoltaic plate is the main cost for the solar energy plants, particularly in the countries which do not have the rich resources. Finally, despite less pollution caused in solar power producing and using, there are some pollution threat after that stages. In the PV system, PV panels is the most significant and most frequently used infrastructure to absorb solar radiation in solar power electric plants, nevertheless life length of PV panels is limited which is approximately 5 years. Those abandoned panels contain chemical materials and toxic substances that are difficult to deal with. 30% of PV panels of the world are supplied in China (Hua, Oliphant, and Hu, 2016), which increased the risk of environmental pollution.
+ However, it is some issues that have the negative influence on the rapid
+ development of solar energy. Firstly, the electric grid does not store
+ electrical energy which means that the demand and the production of electric
+ power must be equivalent at the same time (Leonard et al, 2019). However, when
+ solar power is used to churn out the electric with a PV system, the electrical
+ power produced by solar is limited by daylight hours and seasons. This will
+ result in the situations of energy wasted or insufficient energy supply. This
+ is the reason for the low proportion of adding solar power into state grid.
+ Furthermore, this renewable energy is comparatively uneconomical, because of
+ the high price. The main reasons of high price have caused by two aspects: The
+ technical costs and imported material . For instance, the silicon used in the
+ solar photovoltaic plate is the main cost for the solar energy plants,
+ particularly in the countries which do not have the rich resources. Finally,
+ despite less pollution caused in solar power producing and using, there are
+ some pollution threat after that stages. In the PV system, PV panels is the
+ most significant and most frequently used infrastructure to absorb solar
+ radiation in solar power electric plants, nevertheless life length of PV panels
+ is limited which is approximately 5 years. Those abandoned panels contain
+ chemical materials and toxic substances that are difficult to deal with. 30% of
+ PV panels of the world are supplied in China (Hua, Oliphant, and Hu, 2016),
+ which increased the risk of environmental pollution.
 
 2.3 Wind energy
 
-The definition of wind energy is that air flows are transformed into a used form with wind turbines,for instance, making electricity, windpumps for pumping water or drainage(Ellabban, Abu-Rub, and Blaabjerg, 2014). In China, wind power took over the largest proportion of renewable power capacities and ranked first in world wind power production in 2015 (Kabir et al, 2018)(Fig.1). 
+The definition of wind energy is that air flows are transformed into a used form
+with wind turbines,for instance, making electricity, windpumps for pumping water
+or drainage, windmills for mechanical power and so on(Ellabban, Abu-Rub, and
+Blaabjerg, 2014). In China, wind power took over the largest proportion of
+renewable power capacities and ranked first in world wind power production in
+2015 (Kabir et al, 2018)(Fig.1). 
 
 
-Fig.1 Comparison of non-hydro renewable energy capacities between countries (Kabir et al, 2018). 
+Fig.1 Comparison of non-hydro renewable energy capacities between countries
+(Kabir et al, 2018). 
 
-The important position of wind power in  China, even in the world, is because the positive benefits of wind power to face the growing energy demand issues. Comparing with other renewable energy mentioned, duration of infrastructure construction in wind power plants is shorter than other renewable energy plants; also,the wind farms are relatively cheaper to build (Ellabban, Abu-Rub, and Blaabjerg, 2014). In addition, wind power generation produces no water or air pollution, achieving environmental friendliness (Ellabban, Abu-Rub, and Blaabjerg, 2014). On the other hand, the negative influence of wind power discouraging its further development should be paid more attention on to face. The primary issue of wind power plant is the noise which caused by fan working. The noise is still around 45 dB  at a 300-meter distance between the fan and residents, Residents who live nearby wind farm area would have a risk of health (Gipe, Paul, 1995). Secondly, the wind power plants mostly build on the place where have enough wind resources to support the equiption working, such as farm, plain. That means several parts of land will be occupied, then the soil erosion will threaten the land quality. Finally, the most serious impact on wildlife is habitat loss and life threat from the windmill (Nathan et al, 2015).
+The important position of wind power in  China, even in the world, is because
+the positive benefits of wind power to face the growing energy demand issues.
+Comparing with other renewable energy mentioned, duration of infrastructure
+construction in wind power plants is shorter than other renewable energy plants;
+also,the wind farms are relatively cheaper to build (Ellabban, Abu-Rub, and
+Blaabjerg, 2014). In addition, wind power generation produces no water or air
+pollution, achieving environmental friendliness (Ellabban, Abu-Rub, and
+Blaabjerg, 2014). On the other hand, the negative influence of wind power
+discouraging its further development should be paid more attention on to face.
+The primary issue of wind power plant is the noise which caused by fan working.
+The noise is still around 45 dB  at a 300-meter distance between the fan and
+residents, Residents who live nearby wind farm area would have a risk of health
+(Gipe, Paul, 1995). Secondly, the wind power plants mostly build on the place
+where have enough wind resources to support the equiption working, such as farm,
+plain. That means several parts of land will be occupied, then the soil erosion
+will threaten the land quality. Finally, the most serious impact on wildlife is
+habitat loss and life threat from the windmill (Nathan et al, 2015).
 
 3.Evaluation and suggestion
 
-As a country with a large population, the contribution of China of global CO2 emissions reached 25.1% (Li et al, 2012). The energy situation of China has a great impact on the world. As this essay mentioned , although during the development of renewable energy ,there are some disadvantages and issues which should be solved, the advantages of renewable energy is more strength than the disadvantages and the disadvantages could be mitigated or solved. The most irreplaceable benefit of renewable energy is unlimited storage. With the rapid development of China, the issue of increasing demand of energy would be more serious year by year. The characteristic of large storage for renewable energy is suitable to face this challenge. Moreover, few pollution produced with renewable energy using also is significant benefit. As the pollution from fossil fuel have badly impact on climate change and human life. This essay believes that pollution situation is in urgent need of change and the most powerful measure is been replaced by renewable energy. Overview, this essay holds an optimistic position on renewable energy sources potential to alleviate the problem of increasing energy demands to a certain extent in China. Some suggestions will be given to encourage this opinion.
+As a country with a large population, the contribution of China of global CO2
+emissions reached 25.1% (Li et al, 2012). The energy situation of China has a
+great impact on the world. As this essay mentioned , although during the
+development of renewable energy ,there are some disadvantages and issues which
+should be solved, the advantages of renewable energy is more strength than the
+disadvantages and the disadvantages could be mitigated or solved. The most
+irreplaceable benefit of renewable energy is unlimited storage. With the rapid
+development of China, the issue of increasing demand of energy would be more
+serious year by year. The characteristic of large storage for renewable energy
+is suitable to face this challenge. Moreover, few pollution produced with
+renewable energy using also is significant benefit. As the pollution from fossil
+fuel have badly impact on climate change and human life. This essay believes
+that pollution situation is in urgent need of change and the most powerful
+measure is been replaced by renewable energy. Overview, this essay holds an
+optimistic position on renewable energy sources potential to alleviate the
+problem of increasing energy demands to a certain extent in China. Some
+suggestions will be given to encourage this opinion.
 
 
-First of all, it is worth it to pay attention on improving the technology of transforming and using renewable energies, for instance,expanding electric capacity, connecting renewable energy with the state grid. Despite the high price of technological development, an advanced technology could give more aids in the next stages of renewable energy, such as low environmental restoration cost. Secondly, in the aspect of policy, Chinese government has given the notional aim : increasing the wind power generation capacity to 200GW by 2020,   23% of the reduction would be contributed by wind power in carbon intensity and 800 million m3 of water would be saved at the same time (Li et al, 2012). A powerful guide policy could make a clear direction for renewable energy development. Take wind power as an example, government publishes that 23% of the reduction would be contributed by wind power in carbon intensity and 800 million m3 of water would be saved at the same time.  Also, the government could encourage renewable energy on finance which is vital assistance at the initial stage of new technology. 
+First of all, it is worth it to pay attention on improving the technology of
+transforming and using renewable energies, for instance,expanding electric
+capacity, connecting renewable energy with the state grid. Despite the high
+price of technological development, an advanced technology could give more aids
+in the next stages of renewable energy, such as low environmental restoration
+cost. Secondly, in the aspect of policy, Chinese government has given the
+notional aim : increasing the wind power generation capacity to 200GW by 2020,
+23% of the reduction would be contributed by wind power in carbon intensity and
+800 million m3 of water would be saved at the same time (Li et al, 2012). A
+powerful guide policy could make a clear direction for renewable energy
+development. Take wind power as an example, government publishes that 23% of the
+reduction would be contributed by wind power in carbon intensity and 800 million
+m3 of water would be saved at the same time.  Also, the government could
+encourage renewable energy on finance which is vital assistance at the initial
+stage of new technology. 
 
 Conclusion
-In summary, this essay shows that the great potential and positive position of renewable energy sources enable it to mitigate increasing energy demands in some degree in China. According to the research on different sides, the article chooses three typical representative renewable energy of China and discusses their development situations in China. Then, there are some evaluations about the potential of renewable energy which believes that those suggestions mentioned would have a hortative influence on renewable energy to face the energy problem.
 
+In summary, this essay shows that the great potential and positive position of
+renewable energy sources enable it to mitigate increasing energy demands in some
+degree in China. According to the research on different sides, the article
+chooses three typical representative renewable energy of China and discusses
+their development situations in China. Then, there are some evaluations about
+the potential of renewable energy which believes that those suggestion mentioned
+would have a hortative influence on renewable energy to facing the energy
+problem.Discuss and evaluate the potential of renewable energy sources to meet
+the increasing energy demands of your country.
