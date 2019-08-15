@@ -91,9 +91,9 @@ contain chemical materials and toxic substances that are difficult to deal with.
 
 2.3 Wind energy
 
-The definition of wind energy is that air flows are transformed into a used form
-with wind turbines,for instance, making electricity, windpumps for pumping water
-or drainage, windmills for mechanical power and so on(Ellabban, Abu-Rub, and
+The definition of wind energy is that air flows are transformed into a usable form
+to wind turbines; for instance, making electricity, windpumps for pumping water
+or drainage, windmills for mechanical power and so on (Ellabban, Abu-Rub, and
 Blaabjerg, 2014). In China, wind power took over the largest proportion of
 renewable power capacities and ranked first in world wind power production in
 2015 (Kabir et al, 2018)(Fig.1). 
@@ -102,21 +102,23 @@ renewable power capacities and ranked first in world wind power production in
 Fig.1 Comparison of non-hydro renewable energy capacities between countries
 (Kabir et al, 2018). 
 
-The important position of wind power in  China, even in the world, is because
-the positive benefits of wind power to face the growing energy demand issues.
-Comparing with other renewable energy mentioned, duration of infrastructure
+The important position of wind power in China -- even among the world -- is because
+of the strength of wind power in facing the growing energy demand issues.
+Comparing with other renewable energies mentioned before, the duration of infrastructure
 construction in wind power plants is shorter than other renewable energy plants;
-also,the wind farms are relatively cheaper to build (Ellabban, Abu-Rub, and
+also, the wind farms are relatively cheaper to build (Ellabban, Abu-Rub, and
 Blaabjerg, 2014). In addition, wind power generation produces no water or air
 pollution, achieving environmental friendliness (Ellabban, Abu-Rub, and
-Blaabjerg, 2014). On the other hand, the negative influence of wind power
+Blaabjerg, 2014). (i would recommend to start a new paragraph discussing the 
+negative impacts to be consistent with previous discussion) 
+On the other hand, the negative influence of wind power
 discouraging its further development should be paid more attention on to face.
-The primary issue of wind power plant is the noise which caused by fan working.
+The primary issue of wind power plant is the noise caused by fan working.
 The noise is still around 45 dB  at a 300-meter distance between the fan and
-residents, Residents who live nearby wind farm area would have a risk of health
+residents. People who live nearby wind farm area would have a risk of health
 (Gipe, Paul, 1995). Secondly, the wind power plants mostly build on the place
-where have enough wind resources to support the equiption working, such as farm,
-plain. That means several parts of land will be occupied, then the soil erosion
+having enough wind resources to support the equiption working, such as farms and
+plains, meaning that several parts of land will be occupied, then the soil erosion
 will threaten the land quality. Finally, the most serious impact on wildlife is
 habitat loss and life threat from the windmill (Nathan et al, 2015).
 
