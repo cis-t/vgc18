@@ -36,45 +36,58 @@ Although it is obvious and (distinct -- i think this word stresses on the "diffe
 
 Solar energy is radiant light and heat from the sun, utilized through diverse
 technologies. It can be divided into two categories on the basis of utilizing
-solar energy directly or indirectly: electricity production (solar photovoltaic
+solar energy directly or indirectly -- electricity production (solar photovoltaic
 (PV) and concentrating solar power (CSP) systems) and thermal energy (Byrne et
 al, 2010). 
 
-China has ample solar energy resources, because of the large land area. And its
-distribution is uneven result from the altitude. Some cold northern provinces of
-China located at high altitude have rich sunlight and long daily lighting time
-which is suitable to establish Solar energy plants. In those provinces, such as,
-inner mongolia, Tibet and southeast of the Qing-zang altiplano, the annual hours
-of sunlight is more than 3200, and the annual irradiation amount is about 6600–
-8500 MJ/m2 (Liu et al, 2010). These abundant resources have supported the
-development of solar energy. In 2007, the total amount of Chinese solar PV ranks
-the first in the world, occupying 35% in the world, with over 1200MW (Liu et al,
-2010). Besides, wide distribution of solar energy encourageS its development in
-China. More than 67% areas of China are abundant solar energy zone (The annual
-hours of rich irradiation zone are about 3000–3200, and the annual irradiation
-amount is about 5800– 6600MJ/m2.) (Liu et al, 2010). 
+China has ample solar energy resources, because of the large land area. 
 
- However, it is some issues that have the negative influence on the rapid
- development of solar energy. Firstly, the electric grid does not store
- electrical energy which means that the demand and the production of electric
- power must be equivalent at the same time (Leonard et al, 2019). However, when
- solar power is used to churn out the electric with a PV system, the electrical
- power produced by solar is limited by daylight hours and seasons. This will
- result in the situations of energy wasted or insufficient energy supply. This
- is the reason for the low proportion of adding solar power into state grid.
- Furthermore, this renewable energy is comparatively uneconomical, because of
- the high price. The main reasons of high price have caused by two aspects: The
- technical costs and imported material . For instance, the silicon used in the
- solar photovoltaic plate is the main cost for the solar energy plants,
- particularly in the countries which do not have the rich resources. Finally,
- despite less pollution caused in solar power producing and using, there are
- some pollution threat after that stages. In the PV system, PV panels is the
- most significant and most frequently used infrastructure to absorb solar
- radiation in solar power electric plants, nevertheless life length of PV panels
- is limited which is approximately 5 years. Those abandoned panels contain
- chemical materials and toxic substances that are difficult to deal with. 30% of
- PV panels of the world are supplied in China (Hua, Oliphant, and Hu, 2016),
- which increased the risk of environmental pollution.
+?And its distribution is uneven result from the altitude. ?
+i dont understand this -- resulted from?
+
+Located at high altitude areas, some cold northern provinces of China have rich
+sunlight and long daily lighting time which is suitable to establish Solar
+energy plants. In those provinces, e.g., Inner Mongolia, Tibet and the southeast
+part of the Qing-zang altiplano, the annual hours of sunlight is more than 3200,
+and the annual irradiation amount is about 6600– 8500 MJ/m2 (Liu et al, 2010).
+These abundant resources have supported the development of solar energy. In
+2007, the total amount of Chinese solar PV ranks at the top in the world
+(1200MW), taking 35% of the total volume (Liu et al, 2010). 
+
+? Besides, the wide distribution of solar energy encourages its development in China. ?
+i dont understand this sentence -- maybe "poputation" in stead of "development"?
+
+More than 67% areas of China are abundant solar energy zone (the annual hours of
+rich irradiation zone are about 3000–3200, and the annual irradiation amount is
+about 5800– 6600MJ/m2.) (Liu et al, 2010). 
+
+?However, it is some issues that have the negative influence on the rapid
+development of solar energy. ?
+are you saying -- the rapid development of solar
+energy introduces negative images and problems?
+
+Firstly, the electric grid does not store electrical energy which means that the
+demand and the production of electric power must be equivalent at the same time
+(Leonard et al, 2019). However, when solar power is used to churn out the
+
+electric (what? -- mising subject?)
+
+with a PV system, the electrical power produced by solar is limited by
+daylight hours and seasons. This will result in the situations of energy waste
+or insufficient energy supply. This is the reason for the low proportion of
+adding solar power into state grid. Furthermore, this renewable energy is
+comparatively uneconomical, because of the high price. The main reasons of high
+price have caused by two aspects: the technical costs and imported materials.
+For instance, the silicon used in the solar photovoltaic plate is the main cost
+for the solar energy plants, particularly in the countries which do not have the
+rich resources. Finally, despite less pollution caused in solar power producing
+and using, there are some pollution threat after that stages. In the PV system,
+PV panels (is, are) the most significant and most frequently used infrastructure to
+absorb solar radiation in solar power electric plants, nevertheless life length
+of PV panels is limited (approximately 5 years). Those abandoned panels
+contain chemical materials and toxic substances that are difficult to deal with.
+30% of PV panels of the world are (supplied in -- im not sure if this is correct) China (Hua, Oliphant, and Hu,
+2016), which increased the risk of environmental pollution.
 
 2.3 Wind energy
 
